@@ -1,2 +1,2 @@
 # instacart-python-insights
-This repository houses Python code written during the analysis of the Instacart dataset, including data cleaning, feature engineering, segmentation, and visualization. It features the use of pandas, matplotlib, and seaborn for deriving customer insights, and prepares outputs for stakeholder presentations.
+Python-based exploratory analysis of Instacart’s grocery order data, including segmentation, behavioral trends, and marketing insights using Jupyter notebooks and visualizations.
