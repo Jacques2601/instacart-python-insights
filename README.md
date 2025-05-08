@@ -1,25 +1,33 @@
-# instacart-python-insights
-Python-based exploratory analysis of Instacart’s grocery order data, including segmentation, behavioral trends, and marketing insights using Jupyter notebooks and visualizations.
+instacart-basket-analysis
+Python-based data analytics project using the Instacart online grocery shopping dataset. The project explores customer behavior, product trends, and basket composition through data wrangling, exploratory analysis, segmentation, and visualization.
 
-# Instacart Python Analysis
+📌 Project Summary
+This project analyzes over 3 million grocery orders from more than 200,000 Instacart users. Using Pandas, NumPy, Seaborn, and Matplotlib, the analysis answers key business questions related to product popularity, order patterns, customer segmentation, and reorder behavior. The goal is to help Instacart improve user targeting, retention, and personalized recommendations.
 
-This project analyzes customer purchasing behavior from Instacart’s grocery delivery platform using Python and Jupyter Notebooks. It provides segmentation insights and visual recommendations for marketing and operations teams.
+🛠️ Tools Used
+Python (Jupyter Notebook)
 
-## Objectives:
-- Identify busiest days/hours of the week
-- Examine high-spending times of day
-- Group products into price ranges
-- Segment customer behavior by demographics and loyalty
+Pandas for data cleaning and transformation
 
-## Tools:
-- Python (pandas, matplotlib, seaborn)
-- Jupyter Notebook
+Matplotlib & Seaborn for data visualization
 
-## Folder Structure:
-- `/Scripts` – Cleaned and analyzed code
-- `/Visualizations` – Charts (histograms, line charts, bar charts, scatterplots)
-- `/Reports` – Excel summary report
-- `/Data` – Not uploaded due to size/privacy
+NumPy for numerical operations
 
-## Data Source:
-“The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle.
+CSV & Pickle for data I/O
+
+📁 Key Topics Covered
+Data cleaning and formatting
+
+Merging and joining large datasets
+
+Creating customer profiles and loyalty flags
+
+Visualizing purchase behavior by time of day, department, and frequency
+
+Identifying high-spending and low-frequency users
+
+Exporting insights for stakeholder reports
+
+📂 Data Source
+Instacart’s open-source dataset:
+📎 https://www.instacart.com/datasets/grocery-shopping-2017
