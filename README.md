@@ -2,11 +2,11 @@
 
 Python-based data analytics project using the Instacart online grocery shopping dataset. The project explores customer behavior, product trends, and basket composition through data wrangling, exploratory analysis, segmentation, and visualization.
 
-# 📌 Project Summary
+# Project Summary
 
 This project analyzes over 3 million grocery orders from more than 200,000 Instacart users. Using Pandas, NumPy, Seaborn, and Matplotlib, the analysis answers key business questions related to product popularity, order patterns, customer segmentation, and reorder behavior. The goal is to help Instacart improve user targeting, retention, and personalized recommendations.
 
-# 💪 Tools Used
+# Tools Used
 
 - Python (Jupyter Notebook)
 
@@ -18,7 +18,7 @@ This project analyzes over 3 million grocery orders from more than 200,000 Insta
 
 - CSV & Pickle for data I/O
 
-## 📁 Key Topics Covered
+## Key Topics Covered
 
 - Data cleaning and formatting
 
@@ -32,7 +32,7 @@ This project analyzes over 3 million grocery orders from more than 200,000 Insta
 
 - Exporting insights for stakeholder reports
 
-## 📂 Data Source
+## Data Source
 
 Instacart’s open-source dataset:📎 https://www.instacart.com/datasets/grocery-shopping-2017
 
